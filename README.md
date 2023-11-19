@@ -18,6 +18,6 @@ experienced in the following (ever expanding) list of languages:
 
 <style>
   .lang img{
-    height: 75;
+    height: 75px;
   }
 </style>
