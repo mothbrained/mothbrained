@@ -1,7 +1,7 @@
 # mothbrained
 ### currently looking for projects (of 3-6 months in length)
 experienced in the following (ever expanding) list of languages:
-<br>
+<br><br>
 <div style="height: 75">
   <img src="images/C-Sharp.svg" alt="C# programming language" height="75">
   <img src="images/Java.svg" alt="Java programming language" height="75">
@@ -12,5 +12,4 @@ experienced in the following (ever expanding) list of languages:
   <img src="images/CSS.svg" alt="CSS programming language" height="75">
   <img src="images/C.svg" alt="C programming language" height="75">
 </div>
-<br>
 (in order of greatest time spent)
