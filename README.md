@@ -1,7 +1,7 @@
 # mothbrained
 ### currently looking for projects (of 3-6 months in length)
+<br>
 experienced in the following (ever expanding) list of languages:
-<br><br>
 <div style="height: 75">
   <img src="images/C-Sharp.svg" alt="C# programming language" height="75">
   <img src="images/Java.svg" alt="Java programming language" height="75">
