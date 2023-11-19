@@ -2,6 +2,14 @@
 ### currently looking for projects (of 3-6 months in length)
 experienced in the following (ever expanding) list of languages:
 <br><br>
+
+
+<style>
+  div.lang img{
+    height: 75px;
+  }
+</style>
+
 <div class="lang">
   <img src="images/C-Sharp.svg" alt="C# programming language">
   <img src="images/Java.svg" alt="Java programming language">
@@ -14,10 +22,3 @@ experienced in the following (ever expanding) list of languages:
 </div>
 <br><br>
 (in order of greatest time spent)
-
-
-<style>
-  div.lang img{
-    height: 75px;
-  }
-</style>
