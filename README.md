@@ -3,13 +3,6 @@
 experienced in the following (ever expanding) list of languages:
 <br><br>
 
-
-<style>
-  div.lang img{
-    height: 75px;
-  }
-</style>
-
 <div class="lang">
   <img src="images/C-Sharp.svg" alt="C# programming language">
   <img src="images/Java.svg" alt="Java programming language">
