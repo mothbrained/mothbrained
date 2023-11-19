@@ -14,5 +14,5 @@ experienced in the following languages:
 </div>
 
 ### currently busy with:
-a high mobility ultraviolent unity game (how creative i know)
+a high mobility ultraviolent unity game (how creative i know) <br>
 co-developing a roblox game (not out of love for the platform, but out of spite)
