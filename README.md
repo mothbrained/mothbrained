@@ -1,5 +1,5 @@
 # mothbrained
-### currently looking for 3-6 month projects (willing to compromise)
+### currently looking for projects of 3-6 months length (willing to compromise)
 
 experienced in the following (ever expanding) list of languages:
 <div style="height: 75">
