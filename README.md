@@ -17,7 +17,7 @@ experienced in the following (ever expanding) list of languages:
 
 
 <style>
-  .lang img{
+  div.lang img{
     height: 75px;
   }
 </style>
