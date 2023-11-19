@@ -12,3 +12,7 @@ experienced in the following languages:
   <img src="images/CSS.svg" alt="CSS programming language" height="75">
   <img src="images/C.svg" alt="C programming language" height="75">
 </div>
+
+### currently busy with:
+a high mobility ultraviolent unity game (how creative i know)
+co-developing a roblox game (not out of love for the platform, but out of spite)
