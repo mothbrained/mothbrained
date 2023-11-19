@@ -15,4 +15,9 @@ experienced in the following languages:
 
 ### currently busy with:
 a high mobility ultraviolent unity game (how creative i know) <br>
-co-developing a roblox game (not out of love for the platform, but out of spite)
+co-developing a roblox game (not out of love for the platform, but out of spite)<br>
+<br>
+all of the above will be on my profile upon completion
+
+### (dont) contact me
+i dont have any public forms of contact avaliable right now. although, if you wanted to, im sure you could figure out how.
