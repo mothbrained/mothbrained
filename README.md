@@ -1,5 +1,4 @@
-# mothbrained
-### not looking for projects right now
+## not looking for projects right now
 
 experienced in the following languages:
 <div style="height: 75">
