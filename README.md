@@ -23,7 +23,7 @@ experienced in the following languages:
 ### currently busy with:
 two unity game prototypes<br>
 co-developing a roblox game<br>
-**all of the above will be in public domains upon completion**
+**all of the above will be in public repos upon completion**
 
 ### (dont) contact me
 i dont have any public forms of contact avaliable right now. although, if you *really* wanted to, im sure you could figure out how
