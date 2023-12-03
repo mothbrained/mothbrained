@@ -16,7 +16,7 @@ experienced in the following languages (in no particular order):
     <img src="images/HTML.svg" alt="HTML programming language" title="HTML 5" height="75"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="images/CSS.svg" alt="CSS programming language" title="CSS 3" height="75"></a>
-  <a href="https://www.iso.org/standard/74528.html">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="images/C.svg" alt="C programming language" title="C" height="75"></a>
 </div>
 
