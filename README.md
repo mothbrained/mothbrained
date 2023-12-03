@@ -23,7 +23,7 @@ experienced in the following languages (in no particular order):
 ### currently busy with:
 movement unity game (on hold, wallrunning is tricky)<br>
 unity Mirror p2p prototype<br>
-co-developing a roblox game<br>
+co-developing an actually fun roblox game (team of four people)<br>
 **all of the above will be in public repos upon completion**
 
 ### (dont) contact me
