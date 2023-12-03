@@ -1,6 +1,6 @@
 ## not looking for projects right now
 
-experienced in the following languages:
+experienced in the following languages (in no particular order):
 <div style="height: 75">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="images/C-Sharp.svg" alt="C# programming language" height="75"></a>
