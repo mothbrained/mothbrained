@@ -13,9 +13,9 @@ experienced in the following languages (in no particular order):
   <a href="https://www.python.org/">
     <img src="images/Python.svg" alt="Python programming language" title="Python" height="75"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="images/HTML.svg" alt="HTML programming language" title="HTML" height="75"></a>
+    <img src="images/HTML.svg" alt="HTML programming language" title="HTML 5" height="75"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="images/CSS.svg" alt="CSS programming language" title="CSS" height="75"></a>
+    <img src="images/CSS.svg" alt="CSS programming language" title="CSS 3" height="75"></a>
   <a href="https://www.iso.org/standard/74528.html">
     <img src="images/C.svg" alt="C programming language" title="C" height="75"></a>
 </div>
