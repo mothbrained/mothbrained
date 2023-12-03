@@ -3,21 +3,21 @@
 experienced in the following languages (in no particular order):
 <div style="height: 75">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img src="images/C-Sharp.svg" alt="C# programming language" height="75"></a>
+    <img src="images/C-Sharp.svg" alt="C# programming language" title="C#" height="75"></a>
   <a href="https://www.java.com">
-    <img src="images/Java.svg" alt="Java programming language" height="75"></a>
+    <img src="images/Java.svg" alt="Java programming language" title="Java" height="75"></a>
   <a href="https://isocpp.org/">
-    <img src="images/C++.svg" alt="C++ programming L=language" height="75"></a>
+    <img src="images/C++.svg" alt="C++ programming L=language" title="C++" height="75"></a>
   <a href="https://www.lua.org/">
-    <img src="images/Lua.svg" alt="Lua programming language" height="75"></a>
+    <img src="images/Lua.svg" alt="Lua programming language" title="Lua" height="75"></a>
   <a href="https://www.python.org/">
-    <img src="images/Python.svg" alt="Python programming language" height="75"></a>
+    <img src="images/Python.svg" alt="Python programming language" title="Python" height="75"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="images/HTML.svg" alt="HTML programming language" height="75"></a>
+    <img src="images/HTML.svg" alt="HTML programming language" title="HTML" height="75"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="images/CSS.svg" alt="CSS programming language" height="75"></a>
+    <img src="images/CSS.svg" alt="CSS programming language" title="CSS" height="75"></a>
   <a href="https://www.iso.org/standard/74528.html">
-    <img src="images/C.svg" alt="C programming language" height="75"></a>
+    <img src="images/C.svg" alt="C programming language" title="C" height="75"></a>
 </div>
 
 ### currently busy with:
