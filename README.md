@@ -21,8 +21,7 @@ experienced in the following languages (in no particular order):
 </div>
 
 ### currently busy with:
-movement unity game (on hold, wallrunning is tricky)<br>
-unity Mirror p2p multiplayer prototype<br>
+p2p multiplayer prototype<br>
 **all of the above will be in public repos upon completion**
 
 ### (dont) contact me
