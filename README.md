@@ -22,7 +22,6 @@ experienced in the following languages (in no particular order):
 
 ### currently busy with:
 p2p multiplayer prototype<br>
-**all of the above will be in public repos upon completion**
 
 ### (dont) contact me
 i dont have any public forms of contact avaliable right now. although, if you *really* wanted to, im sure you could figure out how
