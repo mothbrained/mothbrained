@@ -19,9 +19,3 @@ experienced in the following languages (in no particular order):
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="images/C.svg" alt="C programming language" title="C" height="75"></a>
 </div>
-
-### currently busy with:
-p2p multiplayer prototype<br>
-
-### (dont) contact me
-i dont have any public forms of contact avaliable right now. although, if you *really* wanted to, im sure you could figure out how
